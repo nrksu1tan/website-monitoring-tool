@@ -61,7 +61,7 @@ CHROMEDRIVER_PATH = "C:\\path\\to\\chromedriver.exe"
 - Run the script using Python:
 
     ```python
-    python monitor.py
+    python monsite.py
     ```
 - While the script is running, you can manually trigger a **```check```** by typing check and pressing Enter. To stop the script, press ```Ctrl+C```.
 
